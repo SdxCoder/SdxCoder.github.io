@@ -1,16 +1,16 @@
-Privacy Policy of Smart Kassen Bon
+## Privacy Policy of Smart Kassen Bon
 This Application collects some Personal Data from its Users.
 
 
 This document can be printed for reference by using the print command in the settings of any browser.
 
-Policy summary
+## Policy summary
 Personal Data collected for the following purposes and using the following services:
 Device permissions for Personal Data access
 Device permissions for Personal Data access
 Personal Data: Camera permission; Storage permission
 
-Full policy
+## Full policy
 Owner and Data Controller
 Types of Data collected
 Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Camera permission; Storage permission.
@@ -23,12 +23,12 @@ Any use of Cookies – or of other tracking tools – by this Application or by 
 
 Users are responsible for any third-party Personal Data obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.
 
-Mode and place of processing the Data
-Methods of processing
+## Mode and place of processing the Data
+### Methods of processing
 The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
 The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
 
-Legal basis of processing
+## Legal basis of processing
 The Owner may process Personal Data relating to Users if one of the following applies:
 
 Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;
@@ -38,7 +38,7 @@ processing is related to a task that is carried out in the public interest or in
 processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
 In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
-Place
+## Place
 The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.
 
 Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
@@ -47,7 +47,7 @@ Users are also entitled to learn about the legal basis of Data transfers to a co
 
 If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
 
-Retention time
+## Retention time
 Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
 
 Therefore:
@@ -58,12 +58,12 @@ The Owner may be allowed to retain Personal Data for a longer period whenever th
 
 Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
 
-The purposes of processing
+## The purposes of processing
 The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Device permissions for Personal Data access.
 
 For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
 
-Device permissions for Personal Data access
+## Device permissions for Personal Data access
 Depending on the User's specific device, this Application may request certain permissions that allow it to access the User's device Data as described below.
 
 By default, these permissions must be granted by the User before the respective information can be accessed. Once the permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document.
@@ -73,16 +73,16 @@ Please note that the revoking of such permissions might impact the proper functi
 
 If User grants any of the permissions listed below, the respective Personal Data may be processed (i.e accessed to, modified or removed) by this Application.
 
-Camera permission
+## Camera permission
 Used for accessing the camera or capturing images and video from the device.
 
-Storage permission
+## Storage permission
 Used for accessing shared external storage, including the reading and adding of any items.
 
-Detailed information on the processing of Personal Data
+## Detailed information on the processing of Personal Data
 Personal Data is collected for the following purposes and using the following services:
 
-Device permissions for Personal Data access
+## Device permissions for Personal Data access
 The rights of Users
 Users may exercise certain rights regarding their Data processed by the Owner.
 
@@ -101,18 +101,18 @@ Where Personal Data is processed for a public interest, in the exercise of an of
 
 Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document.
 
-How to exercise these rights
+## How to exercise these rights
 Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
 
-Additional information about Data collection and processing
+## Additional information about Data collection and processing
 Legal action
 The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.
 The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
 
-Additional information about User's Personal Data
+## Additional information about User's Personal Data
 In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.
 
-System logs and maintenance
+## System logs and maintenance
 For operation and maintenance purposes, this Application and any third-party services may collect files that record interaction with this Application (System logs) use other Personal Data (such as the IP Address) for this purpose.
 
 Information not contained in this policy
